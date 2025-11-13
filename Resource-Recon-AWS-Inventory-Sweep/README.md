@@ -22,16 +22,14 @@ Use this to build:
 
 ### 🔹 Database Schema
 
-*(Add your image here)*
-`![DB Schema](./images/db-schema.png)`
+![DB Schema](./images/db-schema.png)
 
 ---
 
 ### 🔹 Script Output
 
-*(Add your image here)*
-`![Output](./images/output.png)`
-`![Output](./images/result.png)`
+![Output](./images/output.png)
+![Output](./images/result.png)
 
 ---
 
@@ -72,7 +70,7 @@ cd aws-recon
 ### 2️⃣ Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install boto3 dotenv psycopg2
 ```
 
 ### 3️⃣ Create a `.env` file
@@ -114,3 +112,4 @@ Every discovered AWS resource is saved with:
 | created_at    | Timestamp                  |
 
 ---
+
