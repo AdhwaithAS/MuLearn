@@ -63,8 +63,8 @@ CREATE TABLE aws_resources (
 ### 1️⃣ Clone this repository
 
 ```bash
-git clone https://github.com/your-username/aws-recon.git
-cd aws-recon
+git clone https://github.com/AdhwaithAS/MuLearn.git
+cd Resource-Recon-AWS-Inventory-Sweep
 ```
 
 ### 2️⃣ Install dependencies
@@ -112,4 +112,5 @@ Every discovered AWS resource is saved with:
 | created_at    | Timestamp                  |
 
 ---
+
 
